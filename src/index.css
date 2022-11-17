@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Red Rose', cursive;
+  background-color: #FFF;
+  color: #434343;
+}
+
+.btn {
+  border: none;
+}
